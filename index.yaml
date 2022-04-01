@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mysamp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-31T20:39:55.299103-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 952f07e58b9a502a21e7d6047207592fdd89c2035b0989248b5cf07dab45bd25
+    name: mysamp
+    type: application
+    urls:
+    - https://gitdgd.github.io/gitops-testing/mysamp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-31T20:39:55.298475-06:00"
